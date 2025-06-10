@@ -78,4 +78,4 @@ Then now what really is the best model?
 
 But:
 
-- SVC with SMOTE might be preferable only if minimizing false negatives in Class 0 is your top priority (e.g., wrongly approving bad credit customers).
+- SVC with might be preferable only if minimizing false negatives in Class 0 is your top priority (e.g., wrongly approving bad credit customers).
